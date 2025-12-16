@@ -1,2 +1,2 @@
-# ngo-ict-consultancy
-ngo-ict-consultancy
+# NGO-ict-consultancy
+NGO-ict-consultancy
